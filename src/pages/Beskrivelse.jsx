@@ -2,7 +2,7 @@
 export function Beskrivelse() {
     return (
         <div>
-            <h1>Beskrivelse af mit uddannelseforløb som webudviklerelev</h1>
+            <h1>Beskrivelse af mit uddannelseforløb</h1>
             <article>
                  <p>
                     Jeg er motiveret webudviklerelev, er i gang med hovedforløbet, som jeg startede på via grundforløb 
