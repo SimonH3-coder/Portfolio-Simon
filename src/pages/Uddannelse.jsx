@@ -43,7 +43,7 @@ CNC-produktion drejning og råemne savning. </p>
 <p>Skolepraktik industritekniker 
 TECHCOLLEGE Nørresundby. 
 Manuel og CNC-bearbejdning med drejning og 
-fræsning. CNC-programmering via Cimco og 
+fræsning. CNC-programmering via Cimco,
 Mastercam og tegning via Inventor. </p>
 <p className="my-2 mx-0 py-2 px-0">April 2022 til august 2022.</p>
 
@@ -65,7 +65,7 @@ Aalborg TECHCOLLEGE. </p>
 UCN Aalborg 
 Fag: Programmering sproget python, 
 netværksteknologi, indlejrer systemer lodning 
-af komponenter og strøm og virksomhed 
+af komponenter, strøm, virksomhed og  
 samfund. </p>
 <p className="my-2 mx-0 py-2 px-0">September 2018 til juni 2019. </p>
 
@@ -82,7 +82,7 @@ samfund. </p>
 <p className="my-2 mx-0 py-2 px-0">August 2002 til juni 2012. </p>
 
 <h3 className="text-[#4f74bf] font-[Roboto, sans-serif] my-2 mx-0 py-2 px-0 text-[2rem]">Erfaring og fritidsjob</h3>
-<p>Frivillige forening praktisk</p>
+<p>Frivillige i en forening, praktisk</p>
 <p className="my-2 mx-0 py-2 px-0">2026 </p>
 <p>Kørekort B. </p>
 <p className="my-2 mx-0 py-2 px-0">2020 </p>
