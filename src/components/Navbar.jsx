@@ -7,13 +7,13 @@ const [NavbarOpen, setNavbarOpen] = useState(false);
     const linkClassName = ({ isActive}) =>
     [
          "relative block rounded-lg px-2 py-2 text-sm font-medium transition-colors duration-200",
-        "text-[#202020] hover:text-[#C52525]",
-        isActive ? "text-[#C52525] after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-full after:bg-[#C52525]":"", 
+        "text-[#e4b834] hover:text-[#ededed]",
+        isActive ? "text-[#ededed] after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-full after:bg-[#C52525]":"", 
     ]. join(" ");
     return (
-        <header className="sticky  top-0 z-50 border-b border-slate-200/80 bg-white/90 backdrop-blur" >
+        <header className="sticky  top-0 z-50 border-b border-slate-200/80 bg-[blue] backdrop-blur" >
             <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
-                <h1 className="text-lg font-bold tracking-tight text-slate-900 sm:text-xl">Mit portfolio som webudvikler</h1>
+                <h1 className="text-lg font-bold tracking-tight text-[#e4b834] sm:text-xl">Mit portfolio som webudvikler</h1>
                 <button className="rounded-lg border border-slate-200 px-3 py-2 text-sm font-medium text-slate-700 md:hidden"
                 onClick={() => setNavbarOpen(!NavbarOpen)}
                 >
