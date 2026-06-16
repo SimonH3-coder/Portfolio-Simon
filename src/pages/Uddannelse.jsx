@@ -4,7 +4,7 @@ export function Uddannelse() {
  return (
         <section>
         <div className="gap-0.5 grid md:grid-cols-1">
-            <figure className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-1 justify-items-center">
+            <figure className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 justify-items-center">
             <img src={computer} alt="Computer" />
             <figcaption className="text-[#333333] text-1xl font-[Roboto, sans-serif] my-4 mx-0 py-4 px-0">
 

@@ -8,13 +8,13 @@ const [NavbarOpen, setNavbarOpen] = useState(false);
     [
          "relative block rounded-lg px-2 py-2 text-sm font-medium transition-colors duration-200",
         "text-[#e4b834] hover:text-[#ededed]",
-        isActive ? "text-[#ededed] after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-full after:bg-[#C52525]":"", 
+        isActive ? "text-[#e4b834] text-[1.5rem] after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-full after:bg-[#C52525]":"", 
     ]. join(" ");
     return (
         <header className="sticky  top-0 z-50 border-b border-slate-200/80 bg-[blue] backdrop-blur" >
             <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
-                <h1 className="text-lg font-bold tracking-tight text-[#e4b834] sm:text-xl">Mit portfolio som webudvikler</h1>
-                <button className="rounded-lg border border-slate-200 px-3 py-2 text-sm font-medium text-slate-700 md:hidden"
+                <h3 className="text-lg font-bold tracking-tight  sm:text-xl text-[#e4b834] text-[2.5rem] sm:text-[2.5rem] md:text-[2.5rem]">Mit portfolio som webudvikler</h3>
+                <button className="rounded-lg border bg-[#e4b834] px-3 py-2 text-sm font-semibold text-[#333333] focus:outline-none forcus:ring-2 focus:ring-[#e4b834] md:hidden"
                 onClick={() => setNavbarOpen(!NavbarOpen)}
                 >
                     Menu
@@ -29,7 +29,7 @@ const [NavbarOpen, setNavbarOpen] = useState(false);
             </nav>
             </div>
             {NavbarOpen && (
-                <nav className="border-t border-slate-200 bg-white px-4 py-3 md:hidden">
+                <nav className="border-t border-slate-200 bg-blue px-4 py-3 md:hidden">
                 <div className="flex flex-col gap-2">
                 <NavLink to="/about" className={linkClassName} onClick={() => setNavbarOpen(false)}>Om mig</NavLink>
                 <NavLink to="/beskrivelse" className={linkClassName} onClick={() => setNavbarOpen(false)}>Beskrivelse af mit uddannelseforløb</NavLink>

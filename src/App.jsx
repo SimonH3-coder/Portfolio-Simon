@@ -16,6 +16,7 @@ function App() {
     
     <BrowserRouter>
      <Navbar />
+     
       <Routes>
         
         <Route path="/About" element={<About />} />
