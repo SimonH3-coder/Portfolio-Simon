@@ -20,7 +20,7 @@ export function Footer() {
             <li>Fodbold Manchester United</li>
             <li> Løbe og gåture</li>
             <li>Læse bøger og tegneserier</li>
-            <li>Spille PlayStation, computer & se film</li>
+            <li>Spille PlayStation & computer</li>
             </ul>
             <div className="m-8 p-0 ml-8 mx-0 py-1 px-0">
                 <h4 className="text-[#e4b834] font-[Roboto, sans-serif text-[2.5rem] ml-8 my-2 mx-0 py-2 px-0 ">Eksterne links</h4>
