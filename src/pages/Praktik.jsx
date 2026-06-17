@@ -20,7 +20,7 @@ export function Praktik() {
                 </p>
                 <p className="my-2 mx-0 py-2 px-0"> Dancutters løsninger og arbejde gør det muligt at renovere rør uden opgravning, dette sparer tid og omkostninger. 
                     Det pneumatiske cutter anvendes til at fjerne blokeringer, forberede rør til renovering og genåbne stikledninger efter end
-                    arbejde </p>
+                    arbejde. </p>
                 <p className="my-2 mx-0 py-2 px-0">Med over 30 års samlet erfaring fokuserer Dancutter på høj kvalitet, driftsikkerhed og holdbarhed.
                 Virksomheden støtter og hjælper kunder verden over med kurser, service og forhandlernetværk. </p>
                 <p className="my-2 mx-0 py-2 px-0">
