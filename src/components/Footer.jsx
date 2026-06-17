@@ -18,6 +18,7 @@ export function Footer() {
             <h4 className="text-[#e4b834] font-[Roboto, sans-serif text-[2.5rem] my-2 mx-0 py-2 px-0">Interresser</h4>
             <li>Heavy Metal, rock & punk musik</li>
             <li>Fodbold Manchester United</li>
+            <li> Løbe og gåture</li>
             <li>Læse bøger og tegneserier</li>
             <li>Spille PlayStation & computer</li>
             </ul>
