@@ -43,10 +43,10 @@ export function Praktik() {
                 <p className="my-2 mx-0 py-2 px-0"> Vær forslag til intern og ekstern linkbuilding, men link ikke fra linksiden til andet på hjemmesiden</p>
                 <p className="my-2 mx-0 py-2 px-0"> Kig i materialet fra Media Point om der er ideer som anvendes eksempelvis FAQ'er eller anvende AI til at få ideer</p>
                 <p className="my-2 mx-0 py-2 px-0"> Vis forslag til hvordan man kan implementere dem på hjemmesiden, klik knap til at led videre til informationer, ikke på selve
-                    siden og lad være med at lave for meget HTML med Wordpress, da når man skriver tekst i Wordpress lave den selv teksten om til HTML. Opgaven var på side 33 i Mediapoint mappen.
+                    siden og lad være med at lave for meget HTML med Wordpress, da når man skriver tekst i Wordpress lave den selv teksten om til HTML. 
                      om til HTML</p>
 
-                     <p className="my-2 mx-0 py-2 px-0"> Den anden opgave gik ud på lave en kotaktside til produktsiden. Den skulle indholde produkt, specikationer & tekst. Den skal ikke indholde få et tilbud, køb og koktaktside. De skal vise en tydlig CTA knap der leder til en side med kontaktformular. Dette laves i Wordpress </p>
+                     <p className="my-2 mx-0 py-2 px-0"> Den anden opgave gik ud på lave en kotaktside til produktsiden. Den skulle indholde produkt, specikationer & tekst. Den skal ikke indholde få et tilbud, køb og koktaktside. De skal vise en tydlig CTA knap der leder til en side med kontaktformular. Dette laves i Wordpress og opgaven var på side 33 i Mediapoint mappen. </p>
 <p className="my-2 mx-0 py-2 px-0">Ved den trejde opgave skulle der laves et produktkort med produktnavn, den skal passer sammen med... og skal ikke være teknisk-ikke værdibasseret. Løsning skal være kort beskrevet til mindre rør, til store dimensioner og fleksibel brug. CTA skal vise se pris, få et tilbud og se detajler. Den skal ingen cases og proof have. Siden skal laves i Wordpress. Opgaven var på  side 31 i Mediapoint mappen </p>
             
                 </article>
