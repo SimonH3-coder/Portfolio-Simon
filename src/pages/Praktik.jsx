@@ -29,7 +29,7 @@ export function Praktik() {
                 </p>
             
                 <h3 className="text-[#4f74bf] font-[Roboto, sans-serif] my-2 mx-0 py-2 px-0 text-[1.5rem]">Mine opgaver hos Dancutter A/S</h3>
-                <p className="my-2 mx-0 py-2 px-0"> Den første opgave var at lave en ting for Media Point en produktside, eksempel hvad kunne man gøre.
+                <p className="my-2 mx-0 py-2 px-0"> Den første opgave var at lave produktside for Media Point, eksempel hvad kunne man gøre.
                     Anvend de ting jeg har lært på skolen og oplysninger jeg har fra Mediapoint.
                 </p>
                 <p className="my-2 mx-0 py-2 px-0">Til opgaven må der godt bruges AI til ideer, til at forbedrer tekster, lave billeder/grafik osv. </p>
@@ -37,7 +37,7 @@ export function Praktik() {
                     lavet i forvejen 
                 </p>
                 <p className="my-2 mx-0 py-2 px-0"> Lav en produktside ved dancutter.dk_produkter i Wordpress og andvend infomationer fra side 30 i mappen fra Media Point</p>
-                <p className="my-2 mx-0 py-2 px-0">Produkt siden kal indeholde oplysninger om de 3 produkter MINI BIKE, SUPER FLEX og MAXI FLEX</p>
+                <p className="my-2 mx-0 py-2 px-0">Produkt siden skal indeholde oplysninger om de 3 produkter MINI BIKE, SUPER FLEX og MAXI FLEX</p>
                 <p className="my-2 mx-0 py-2 px-0"> Skal gerne indholde tekst, billeder, links til download, datablade, vidoer? og CTA'er.</p>
                 <p className="my-2 mx-0 py-2 px-0"> Der skulle arbejdes med SEO og GEO på siden teksten på siden og i Yoast.</p>
                 <p className="my-2 mx-0 py-2 px-0"> Vær forslag til intern og ekstern linkbuilding, men link ikke fra linksiden til andet på hjemmesiden</p>
