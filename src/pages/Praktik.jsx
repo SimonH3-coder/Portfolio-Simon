@@ -49,8 +49,9 @@ export function Praktik() {
                      <p className="my-2 mx-0 py-2 px-0"> Den anden opgave gik ud på lave en kotaktside til produktsiden. Den skulle indholde produkt, specikationer & tekst. Den skal ikke indholde få et tilbud, køb og koktaktside. De skal vise en tydlig CTA knap der leder til en side med kontaktformular. Dette laves i Wordpress og opgaven var på side 33 i Mediapoint mappen. </p>
 <p className="my-2 mx-0 py-2 px-0">Ved den trejde opgave skulle der laves et produktkort med produktnavn, den skal passer sammen med... og skal ikke være teknisk-ikke værdibasseret. Løsning skal være kort beskrevet til mindre rør, til store dimensioner og fleksibel brug. CTA skal vise se pris, få et tilbud og se detajler. Den skal ingen cases og proof have. Siden skal laves i Wordpress. Opgaven var på  side 31 i Mediapoint mappen </p>
 <p className="my-2 mx-0 py-2 px-0">Oversæt fra dansk til engelsk: Dancutter A/S opfølgning Mediapoint, hjemmeside forbredninger</p>
-<p className="my-2 mx-0 py-2 px-0">Sorter i materialer til hjemmeside, om filer og dowloads kommer er placeret rigtig</p>
-<p className="my-2 mx-0 py-2 px-0">Sorter i billeder og pdf filer og om de bliver anvendt på hjemmesiden via wordpress</p>      
+<p className="my-2 mx-0 py-2 px-0">Sorter i materialer til hjemmeside, om filer og downloads, overskrift, titler placeret rigtig i excel</p>
+<p className="my-2 mx-0 py-2 px-0">Sorter i billeder og pdf filer og om de bliver anvendt på hjemmesiden via wordpress</p>
+<p className="my-2 mx-0 py-2 px-0">Haft møder med danske og internale kollegaer i Dancutter A/S</p>      
                 </article>
                     </figcaption>
             </figure>
